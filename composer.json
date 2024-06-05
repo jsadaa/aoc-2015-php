@@ -1,0 +1,17 @@
+{
+    "name": "leopaillard/2015",
+    "description": "aoc 2015 using PHP",
+    "autoload": {
+        "psr-4": {
+            "Leopaillard\\2015\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Léo Paillard",
+            "email": "103212024+jsadaa@users.noreply.github.com"
+        }
+    ],
+    "require": {
+    }
+}

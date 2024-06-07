@@ -9,4 +9,4 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 ## Notes
 
 For problems that requires to try different combinations of elements, I used a `brute force` approach to generate all possible permutations.
-This is not the most efficient way to solve the problem, but it works for the input sizes of the problems. I will get better ! :smile:
+This is not the most efficient way to solve the problem, but it works for the input sizes of the problems. :smile:
